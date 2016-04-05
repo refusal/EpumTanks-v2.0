@@ -1,0 +1,8 @@
+C:\Users\Slava\Documents\Visual Studio 2015\Projects\EpumTanks v2.0\EpumTanks v2.0\bin\Debug\EpumTanks v2.0.exe.config
+C:\Users\Slava\Documents\Visual Studio 2015\Projects\EpumTanks v2.0\EpumTanks v2.0\bin\Debug\EpumTanks v2.0.exe
+C:\Users\Slava\Documents\Visual Studio 2015\Projects\EpumTanks v2.0\EpumTanks v2.0\bin\Debug\EpumTanks v2.0.pdb
+C:\Users\Slava\Documents\Visual Studio 2015\Projects\EpumTanks v2.0\EpumTanks v2.0\obj\Debug\EpumTanks_v2._0.Form1.resources
+C:\Users\Slava\Documents\Visual Studio 2015\Projects\EpumTanks v2.0\EpumTanks v2.0\obj\Debug\EpumTanks_v2._0.Properties.Resources.resources
+C:\Users\Slava\Documents\Visual Studio 2015\Projects\EpumTanks v2.0\EpumTanks v2.0\obj\Debug\EpumTanks v2.0.csproj.GenerateResource.Cache
+C:\Users\Slava\Documents\Visual Studio 2015\Projects\EpumTanks v2.0\EpumTanks v2.0\obj\Debug\EpumTanks v2.0.exe
+C:\Users\Slava\Documents\Visual Studio 2015\Projects\EpumTanks v2.0\EpumTanks v2.0\obj\Debug\EpumTanks v2.0.pdb
